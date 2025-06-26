@@ -1,0 +1,87 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="VvURdjsDkGnABTYRTREh">
+    <mxGraphModel dx="621" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="250Nn6GjvOLlIQLNDxc7-1" target="250Nn6GjvOLlIQLNDxc7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="280" />
+              <mxPoint x="423" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-1" value="&lt;b&gt;Kondisi Ideal&lt;/b&gt;&lt;br&gt;&lt;br&gt;Mahasiswa mampu memahami dan mengimplementasikan pembelajaran Kinematika dan Navigasi Mobile Robot berbasis Swerve Drive secara efektif melalui simulator Unity yang interaktif dan representatif terhadap sistem nyata sesuai dunia industri yang relevan," style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=0;spacingBottom=0;spacing=10;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="285" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="250Nn6GjvOLlIQLNDxc7-2" target="250Nn6GjvOLlIQLNDxc7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+              <mxPoint x="422" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-2" value="&lt;b&gt;Kondisi Nyata&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pembelajaran Praktik Robotika masih terbatas pada media robot konvensional (roda biasa, navigasi sederhana) dan belum tersedia visualisasi interaktif kinematika serta navigasi &lt;i&gt;swerve drive &lt;/i&gt;dengan sistem simulasi.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="250Nn6GjvOLlIQLNDxc7-4" target="250Nn6GjvOLlIQLNDxc7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="250Nn6GjvOLlIQLNDxc7-4" target="250Nn6GjvOLlIQLNDxc7-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="422" y="380" />
+              <mxPoint x="135" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="250Nn6GjvOLlIQLNDxc7-4" target="250Nn6GjvOLlIQLNDxc7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="422" y="380" />
+              <mxPoint x="715" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-4" value="Kesenjangan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="330" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-8" value="&lt;b&gt;Media Pembelajaran Kurang Representatif&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Media pembelajaran yang tersedia saat ini belum memfasilitasi konsep navigasi dan kontrol &lt;i&gt;swerve drive. &lt;/i&gt;Mahasiswa belum memiliki alat bantu visual untuk melihat hubungan antara perhitungan kinematika dengan gerak aktual dari setiap roda&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=4;spacingBottom=0;spacing=7;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="10" y="410" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="250Nn6GjvOLlIQLNDxc7-10" target="250Nn6GjvOLlIQLNDxc7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-10" value="&lt;div&gt;&lt;b&gt;Keterbatasan Akses Perangkat Fisik&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Praktikum robotika terbatas oleh jumlah perangkat fisik dan risiko kerusakan alat, sehingga mahasiswa tidak bisa secara leluasa bereksperimen atau menguji kendali dengan parameter yang kompleks seperti kontrol PID atau simulasi rotasi roda berdasarkan input sudut&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=4;spacingBottom=0;spacing=7;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="410" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-11" value="&lt;b&gt;Belum Tersedianya Simulasi Visual Interaktif&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Saat ini belum ada media berbasis simulasi seperti Unity3D yang digunakan dalam mata kuliah Praktik Robotika, meskipun simulasi tersebut dapat digunakan untuk menghubungkan pengendalian sudut roda dengan visualisasi gerak robot sesungguhnya&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=4;spacingBottom=0;spacing=7;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="590" y="410" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="250Nn6GjvOLlIQLNDxc7-12" target="250Nn6GjvOLlIQLNDxc7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-12" value="&lt;div&gt;&lt;b&gt;Pengembangan Simulator Berbasis Unity&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Sebagai solusi, dikembangkan media pembelajaran berupa simulator kinematika dan navigasi &lt;i&gt;mobile robot&lt;/i&gt;&amp;nbsp;dengan roda &lt;i&gt;swerve drive &lt;/i&gt;berbasis Unity 3D. Simulator ini memungkinkan visualisasi arah dan kecepatan setiap roda, serta kontrol terhadap orientasi robot berdasarkan input&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=4;spacingBottom=0;spacing=7;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="300" y="602" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="250Nn6GjvOLlIQLNDxc7-13" target="250Nn6GjvOLlIQLNDxc7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-13" value="&lt;div&gt;&lt;b&gt;Integrasi Kontrol dan Sensor Virtual&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Simulator akan mengimplementasikan kontrol PID untuk mengatur sudut roda berdasarkan target arah, serta menampilkan data sudut dari sensor virtual AS5600 untuk mendekati kondisi aktual. Sistem navigasi menggunakan algoritma &lt;i&gt;Pure Pursuit&lt;/i&gt;&amp;nbsp;sebagai kontrol &lt;i&gt;path following&lt;/i&gt;&amp;nbsp;agar robot dapat mengikuti lintasan dinamis dengan presisi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=4;spacingBottom=0;spacing=7;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="300" y="792" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="250Nn6GjvOLlIQLNDxc7-14" target="250Nn6GjvOLlIQLNDxc7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-14" value="&lt;div&gt;&lt;b&gt;Validasi dan Uji Coba Media&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Setelah simulator dikembangkan, dilakukan proses validasi oleh ahli materi dan media, serta uji coba kepada mahasiswa untuk mengetahui tingkat kelayakan, efektivitas, dan ketercapaian kompetensi dalam praktik pembelajaran robotika.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=4;spacingBottom=0;spacing=7;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1012" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="250Nn6GjvOLlIQLNDxc7-15" value="&lt;div&gt;&lt;b&gt;Hasil yang Diharapkan&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Melalui pengembangan simulator ini, mahasiswa diharapkan dapat memahami dan mengaplikasikan konsep kinematika &lt;i&gt;swerve drive &lt;/i&gt;serta navigasi pada &lt;i&gt;mobile robot&lt;/i&gt;&amp;nbsp;sesungguhnya secara virtual. Media ini juga diharapkan mampu meningkatkan proses keterlibatan belajar, meminimalkan hambatan pada praktikum, dan memperkuat pengetahuan mahasiswa sebagai bekal menghadapi tantangan teknologi di dunia industri&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=4;spacingBottom=0;spacing=7;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1192" width="250" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
